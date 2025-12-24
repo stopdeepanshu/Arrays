@@ -1,5 +1,6 @@
 package Array;
 
+
 public class NumberPallindrome {
 
 	public static void main(String[] args) {

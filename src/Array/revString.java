@@ -1,5 +1,6 @@
 package Array;
 
+
 public class revString {
 	public static void main(String[] args) {
 		String str="motorola is my mobile";

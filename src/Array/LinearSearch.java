@@ -1,5 +1,6 @@
 package Array;
 
+
 public class LinearSearch {
 	public static void main(String[] args) {
 		int no=15;

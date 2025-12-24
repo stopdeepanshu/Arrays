@@ -1,5 +1,6 @@
 package Array;
 
+
 public class strong {
 	public static void main(String[] args) {
 		int no = 145;

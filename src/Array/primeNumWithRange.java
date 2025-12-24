@@ -1,5 +1,6 @@
 package Array;
 
+
 public class primeNumWithRange {
 	public static void main(String[] args) {
 		for (int no = 100; no <= 200; no++) {

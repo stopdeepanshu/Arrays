@@ -1,5 +1,6 @@
 package Array;
 
+
 public class happyNum {
 	public static void main(String[] args) {
 

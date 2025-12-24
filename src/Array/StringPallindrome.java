@@ -1,5 +1,6 @@
 package Array;
 
+
 public class StringPallindrome {
 	public static void main(String[] args) {
 		String str="MadaM";

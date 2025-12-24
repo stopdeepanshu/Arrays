@@ -1,5 +1,6 @@
 package Array;
 
+
 public class nthPrimeNumber {
 	public static void main(String[] args) {
 		int no = 10000;

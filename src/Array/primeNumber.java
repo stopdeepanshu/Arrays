@@ -1,5 +1,6 @@
 package Array;
 
+
 import java.util.Iterator;
 
 public class primeNumber {

@@ -1,5 +1,6 @@
 package Array;
 
+
 public class removeDuplicateWords {
 	public static void main(String[] args) {
 		String str = "java is easy and java is powerful";

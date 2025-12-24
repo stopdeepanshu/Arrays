@@ -1,5 +1,6 @@
 package Array;
 
+
 public class removeVowels {
 	public static void main(String[] args) {
 		String str="Deasdfghjklqwertyuiopzxcvbnmepanshu";

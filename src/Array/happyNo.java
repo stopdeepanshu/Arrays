@@ -1,5 +1,6 @@
 package Array;
 
+
 public class happyNo {
 	public static void main(String[] args) {
 		int num=19;
